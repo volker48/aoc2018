@@ -10,7 +10,7 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
-            "args": ["day3input.txt"]
+            "args": ["day4input.txt"]
         },
         {
             "name": "Python: Attach",
